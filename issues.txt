@@ -1,0 +1,5 @@
+TIFA-30	No Power Cable, Faulty VGA
+TIFA-08	No Keyoboard, Device has a faulty monitor, Device does not interface well with input devices
+TIFA-04	Faulty VGA cable
+TIFA-05	Faulty VGA cable
+
